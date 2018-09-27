@@ -1,0 +1,1 @@
+# A-Boyer-Moore-variant-for-string-searching
